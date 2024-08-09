@@ -1,0 +1,6 @@
+Project Overview: Supermarket Checkout System
+Objective:
+This project aims to develop a basic supermarket checkout system using fundamental Python programming concepts. Inspired by the experience of observing checkout machines at supermarkets during childhood, this project focuses on simulating the scanning of barcodes, calculating prices, applying discounts, and generating a receipt.
+
+Description:
+In a typical supermarket, the checkout process involves scanning items, which automatically retrieves the price, applies any discounts, and calculates the total amount. This project emulates that process through a Python program, offering beginners a practical exercise in coding while reinforcing core programming skills.
